@@ -1,4 +1,4 @@
-package org.jboss.tools.common.resref;
+package org.jboss.tools.vpe.resref;
 
 import org.eclipse.ui.plugin.AbstractUIPlugin;
 import org.osgi.framework.BundleContext;
